@@ -1,0 +1,2 @@
+D:\Program\GitHub Repository\2.1-institute-chapter_3_for_team\x64\Debug\Chapter_3_for_team.exe
+D:\Program\GitHub Repository\2.1-institute-chapter_3_for_team\x64\Debug\Chapter_3_for_team.pdb
